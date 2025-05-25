@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação Java com interface gráfica (**Swing**) que realiza operações básicas de **CRUD** — Criar, Ler, Atualizar e Deletar — de usuários. O projeto foi desenvolvido com fins acadêmicos, aplicando os conceitos de orientação a objetos, estruturação em camadas e manipulação de interface gráfica em Java.
 
-🔗 Repositório: [github.com/mateeusol/crud.java](https://github.com/mateeusol/crud.java)
+🔗 Repositório: [github.com/mateeusol/crud.java](https://github.com/mateeusol/crudjava)
 
 ---
 
@@ -43,7 +43,7 @@ crud.java/
 
 1. Clone o repositório:
 ``bash
-git clone https://github.com/mateeusol/crud.java.git
+git clone https://github.com/mateeusol/crudjava.git
 
 2. Abra o projeto no IntelliJ IDEA ou outra IDE Java.
 
